@@ -1,0 +1,15 @@
+{
+  "dataset": "COCO 2017 val",
+  "images_raw": 5000,
+  "captions_raw": 25014,
+  "captions_removed_short_or_duplicate": 9,
+  "images_removed_grayscale": 10,
+  "images_removed_too_small": 42,
+  "images_kept": 4948,
+  "captions_kept": 24745,
+  "caption_words_mean": 10.4,
+  "image_size_generation": "512x512 (center crop)",
+  "image_size_fid": "299x299 (center crop)",
+  "prompts_test": 5,
+  "prompts_eval": 1000
+}
