@@ -1,0 +1,121 @@
+image_id,prompt,guidance_scale,seed,steps,scheduler,seconds,file,black_image
+397133,A person standing by a stove in a kitchen,1.0,42,30,PNDM,3.79,397133_g1.png,False
+397133,A person standing by a stove in a kitchen,3.0,42,30,PNDM,6.41,397133_g3.png,False
+397133,A person standing by a stove in a kitchen,5.0,42,30,PNDM,6.56,397133_g5.png,False
+397133,A person standing by a stove in a kitchen,7.5,42,30,PNDM,6.36,397133_g7.5.png,False
+397133,A person standing by a stove in a kitchen,10.0,42,30,PNDM,6.01,397133_g10.png,False
+397133,A person standing by a stove in a kitchen,15.0,42,30,PNDM,5.85,397133_g15.png,False
+219578,A dog and cat are sleeping together on an orange couch,1.0,42,30,PNDM,3.47,219578_g1.png,False
+219578,A dog and cat are sleeping together on an orange couch,3.0,42,30,PNDM,5.64,219578_g3.png,False
+219578,A dog and cat are sleeping together on an orange couch,5.0,42,30,PNDM,5.6,219578_g5.png,False
+219578,A dog and cat are sleeping together on an orange couch,7.5,42,30,PNDM,5.57,219578_g7.5.png,False
+219578,A dog and cat are sleeping together on an orange couch,10.0,42,30,PNDM,5.57,219578_g10.png,False
+219578,A dog and cat are sleeping together on an orange couch,15.0,42,30,PNDM,5.63,219578_g15.png,False
+80671,A person is trying to ski down a snowy slope,1.0,42,30,PNDM,3.43,80671_g1.png,False
+80671,A person is trying to ski down a snowy slope,3.0,42,30,PNDM,5.78,80671_g3.png,False
+80671,A person is trying to ski down a snowy slope,5.0,42,30,PNDM,5.9,80671_g5.png,False
+80671,A person is trying to ski down a snowy slope,7.5,42,30,PNDM,5.92,80671_g7.5.png,False
+80671,A person is trying to ski down a snowy slope,10.0,42,30,PNDM,5.95,80671_g10.png,False
+80671,A person is trying to ski down a snowy slope,15.0,42,30,PNDM,5.93,80671_g15.png,False
+173383,a two layered cake sits on a table top,1.0,42,30,PNDM,3.58,173383_g1.png,False
+173383,a two layered cake sits on a table top,3.0,42,30,PNDM,5.92,173383_g3.png,False
+173383,a two layered cake sits on a table top,5.0,42,30,PNDM,5.91,173383_g5.png,False
+173383,a two layered cake sits on a table top,7.5,42,30,PNDM,5.86,173383_g7.5.png,False
+173383,a two layered cake sits on a table top,10.0,42,30,PNDM,5.8,173383_g10.png,False
+173383,a two layered cake sits on a table top,15.0,42,30,PNDM,5.74,173383_g15.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,1.0,42,30,PNDM,3.46,179765_g1.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,3.0,42,30,PNDM,5.73,179765_g3.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,5.0,42,30,PNDM,5.76,179765_g5.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,7.5,42,30,PNDM,5.78,179765_g7.5.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,10.0,42,30,PNDM,5.81,179765_g10.png,False
+179765,A black Honda motorcycle with a dark burgundy seat,15.0,42,30,PNDM,5.83,179765_g15.png,False
+73533,a couple of kids in yellow shirts are sitting together,1.0,42,30,PNDM,3.51,73533_g1.png,False
+73533,a couple of kids in yellow shirts are sitting together,3.0,42,30,PNDM,5.87,73533_g3.png,False
+73533,a couple of kids in yellow shirts are sitting together,5.0,42,30,PNDM,5.89,73533_g5.png,False
+73533,a couple of kids in yellow shirts are sitting together,7.5,42,30,PNDM,5.9,73533_g7.5.png,False
+73533,a couple of kids in yellow shirts are sitting together,10.0,42,30,PNDM,5.9,73533_g10.png,False
+73533,a couple of kids in yellow shirts are sitting together,15.0,42,30,PNDM,5.92,73533_g15.png,False
+547519,A brown bear walking across a forest surrounded by trees,1.0,42,30,PNDM,3.55,547519_g1.png,False
+547519,A brown bear walking across a forest surrounded by trees,3.0,42,30,PNDM,5.9,547519_g3.png,False
+547519,A brown bear walking across a forest surrounded by trees,5.0,42,30,PNDM,5.87,547519_g5.png,False
+547519,A brown bear walking across a forest surrounded by trees,7.5,42,30,PNDM,5.86,547519_g7.5.png,False
+547519,A brown bear walking across a forest surrounded by trees,10.0,42,30,PNDM,5.83,547519_g10.png,False
+547519,A brown bear walking across a forest surrounded by trees,15.0,42,30,PNDM,5.85,547519_g15.png,False
+278848,A group of people standing outside of a bus,1.0,42,30,PNDM,3.5,278848_g1.png,False
+278848,A group of people standing outside of a bus,3.0,42,30,PNDM,5.84,278848_g3.png,False
+278848,A group of people standing outside of a bus,5.0,42,30,PNDM,5.84,278848_g5.png,False
+278848,A group of people standing outside of a bus,7.5,42,30,PNDM,5.88,278848_g7.5.png,False
+278848,A group of people standing outside of a bus,10.0,42,30,PNDM,5.84,278848_g10.png,False
+278848,A group of people standing outside of a bus,15.0,42,30,PNDM,5.84,278848_g15.png,False
+329080,A hotel room with focus on the two beds,1.0,42,30,PNDM,3.49,329080_g1.png,False
+329080,A hotel room with focus on the two beds,3.0,42,30,PNDM,5.85,329080_g3.png,False
+329080,A hotel room with focus on the two beds,5.0,42,30,PNDM,5.83,329080_g5.png,False
+329080,A hotel room with focus on the two beds,7.5,42,30,PNDM,5.84,329080_g7.5.png,False
+329080,A hotel room with focus on the two beds,10.0,42,30,PNDM,5.84,329080_g10.png,False
+329080,A hotel room with focus on the two beds,15.0,42,30,PNDM,5.86,329080_g15.png,False
+481413,A very small boy on the beach with a disc,1.0,42,30,PNDM,3.52,481413_g1.png,False
+481413,A very small boy on the beach with a disc,3.0,42,30,PNDM,5.8,481413_g3.png,False
+481413,A very small boy on the beach with a disc,5.0,42,30,PNDM,5.83,481413_g5.png,True
+481413,A very small boy on the beach with a disc,7.5,42,30,PNDM,5.84,481413_g7.5.png,True
+481413,A very small boy on the beach with a disc,10.0,42,30,PNDM,5.83,481413_g10.png,False
+481413,A very small boy on the beach with a disc,15.0,42,30,PNDM,5.85,481413_g15.png,True
+512248,A clock is shown on the side of a sign,1.0,42,30,PNDM,3.52,512248_g1.png,False
+512248,A clock is shown on the side of a sign,3.0,42,30,PNDM,5.85,512248_g3.png,False
+512248,A clock is shown on the side of a sign,5.0,42,30,PNDM,5.83,512248_g5.png,False
+512248,A clock is shown on the side of a sign,7.5,42,30,PNDM,5.82,512248_g7.5.png,False
+512248,A clock is shown on the side of a sign,10.0,42,30,PNDM,5.83,512248_g10.png,False
+512248,A clock is shown on the side of a sign,15.0,42,30,PNDM,5.85,512248_g15.png,False
+357238,Some one is flying a kite high on the beach,1.0,42,30,PNDM,3.49,357238_g1.png,False
+357238,Some one is flying a kite high on the beach,3.0,42,30,PNDM,5.82,357238_g3.png,False
+357238,Some one is flying a kite high on the beach,5.0,42,30,PNDM,5.83,357238_g5.png,False
+357238,Some one is flying a kite high on the beach,7.5,42,30,PNDM,5.84,357238_g7.5.png,False
+357238,Some one is flying a kite high on the beach,10.0,42,30,PNDM,5.82,357238_g10.png,False
+357238,Some one is flying a kite high on the beach,15.0,42,30,PNDM,5.82,357238_g15.png,False
+317024,A zebra is next to fences standing on white ground,1.0,42,30,PNDM,3.5,317024_g1.png,False
+317024,A zebra is next to fences standing on white ground,3.0,42,30,PNDM,5.85,317024_g3.png,False
+317024,A zebra is next to fences standing on white ground,5.0,42,30,PNDM,5.84,317024_g5.png,False
+317024,A zebra is next to fences standing on white ground,7.5,42,30,PNDM,5.81,317024_g7.5.png,True
+317024,A zebra is next to fences standing on white ground,10.0,42,30,PNDM,5.83,317024_g10.png,True
+317024,A zebra is next to fences standing on white ground,15.0,42,30,PNDM,5.84,317024_g15.png,True
+186449,An elderly woman with a kerchief on her head sits on the bench,1.0,42,30,PNDM,3.5,186449_g1.png,False
+186449,An elderly woman with a kerchief on her head sits on the bench,3.0,42,30,PNDM,5.84,186449_g3.png,False
+186449,An elderly woman with a kerchief on her head sits on the bench,5.0,42,30,PNDM,5.84,186449_g5.png,False
+186449,An elderly woman with a kerchief on her head sits on the bench,7.5,42,30,PNDM,5.84,186449_g7.5.png,False
+186449,An elderly woman with a kerchief on her head sits on the bench,10.0,42,30,PNDM,5.86,186449_g10.png,False
+186449,An elderly woman with a kerchief on her head sits on the bench,15.0,42,30,PNDM,5.85,186449_g15.png,False
+289938,A food cart parked on the side of a road,1.0,42,30,PNDM,3.48,289938_g1.png,False
+289938,A food cart parked on the side of a road,3.0,42,30,PNDM,5.84,289938_g3.png,False
+289938,A food cart parked on the side of a road,5.0,42,30,PNDM,5.84,289938_g5.png,False
+289938,A food cart parked on the side of a road,7.5,42,30,PNDM,5.89,289938_g7.5.png,False
+289938,A food cart parked on the side of a road,10.0,42,30,PNDM,5.85,289938_g10.png,False
+289938,A food cart parked on the side of a road,15.0,42,30,PNDM,5.83,289938_g15.png,False
+233771,A black and white image with a colored british flag umbrella,1.0,42,30,PNDM,3.52,233771_g1.png,False
+233771,A black and white image with a colored british flag umbrella,3.0,42,30,PNDM,5.87,233771_g3.png,False
+233771,A black and white image with a colored british flag umbrella,5.0,42,30,PNDM,5.89,233771_g5.png,False
+233771,A black and white image with a colored british flag umbrella,7.5,42,30,PNDM,5.9,233771_g7.5.png,False
+233771,A black and white image with a colored british flag umbrella,10.0,42,30,PNDM,5.9,233771_g10.png,False
+233771,A black and white image with a colored british flag umbrella,15.0,42,30,PNDM,5.93,233771_g15.png,False
+206487,A man riding a motorcycle with a woman on back of it,1.0,42,30,PNDM,3.54,206487_g1.png,False
+206487,A man riding a motorcycle with a woman on back of it,3.0,42,30,PNDM,5.91,206487_g3.png,False
+206487,A man riding a motorcycle with a woman on back of it,5.0,42,30,PNDM,5.87,206487_g5.png,False
+206487,A man riding a motorcycle with a woman on back of it,7.5,42,30,PNDM,5.87,206487_g7.5.png,False
+206487,A man riding a motorcycle with a woman on back of it,10.0,42,30,PNDM,5.88,206487_g10.png,False
+206487,A man riding a motorcycle with a woman on back of it,15.0,42,30,PNDM,5.82,206487_g15.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,1.0,42,30,PNDM,3.5,172083_g1.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,3.0,42,30,PNDM,5.84,172083_g3.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,5.0,42,30,PNDM,5.85,172083_g5.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,7.5,42,30,PNDM,5.87,172083_g7.5.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,10.0,42,30,PNDM,5.85,172083_g10.png,False
+172083,Fancy designed sink in a bathroom with stained glass window pattern,15.0,42,30,PNDM,5.85,172083_g15.png,False
+465675,A tractor and two boats beside the water,1.0,42,30,PNDM,3.5,465675_g1.png,False
+465675,A tractor and two boats beside the water,3.0,42,30,PNDM,5.82,465675_g3.png,False
+465675,A tractor and two boats beside the water,5.0,42,30,PNDM,5.81,465675_g5.png,False
+465675,A tractor and two boats beside the water,7.5,42,30,PNDM,5.8,465675_g7.5.png,False
+465675,A tractor and two boats beside the water,10.0,42,30,PNDM,5.8,465675_g10.png,False
+465675,A tractor and two boats beside the water,15.0,42,30,PNDM,5.82,465675_g15.png,False
+76731,A pen sitting on top of an electronic devise,1.0,42,30,PNDM,3.49,76731_g1.png,False
+76731,A pen sitting on top of an electronic devise,3.0,42,30,PNDM,5.8,76731_g3.png,False
+76731,A pen sitting on top of an electronic devise,5.0,42,30,PNDM,5.82,76731_g5.png,False
+76731,A pen sitting on top of an electronic devise,7.5,42,30,PNDM,5.8,76731_g7.5.png,False
+76731,A pen sitting on top of an electronic devise,10.0,42,30,PNDM,5.85,76731_g10.png,False
+76731,A pen sitting on top of an electronic devise,15.0,42,30,PNDM,5.82,76731_g15.png,False

@@ -1,0 +1,61 @@
+image_id,prompt,scheduler,steps,guidance_scale,seed,seconds,file
+397133,A person standing by a stove in a kitchen,PNDM,20,7.5,42,5.0,397133_PNDM_s20.png
+219578,A dog and cat are sleeping together on an orange couch,PNDM,20,7.5,42,3.18,219578_PNDM_s20.png
+80671,A person is trying to ski down a snowy slope,PNDM,20,7.5,42,3.18,80671_PNDM_s20.png
+173383,a two layered cake sits on a table top,PNDM,20,7.5,42,3.18,173383_PNDM_s20.png
+179765,A black Honda motorcycle with a dark burgundy seat,PNDM,20,7.5,42,3.22,179765_PNDM_s20.png
+397133,A person standing by a stove in a kitchen,PNDM,30,7.5,42,4.69,397133_PNDM_s30.png
+219578,A dog and cat are sleeping together on an orange couch,PNDM,30,7.5,42,4.72,219578_PNDM_s30.png
+80671,A person is trying to ski down a snowy slope,PNDM,30,7.5,42,4.76,80671_PNDM_s30.png
+173383,a two layered cake sits on a table top,PNDM,30,7.5,42,4.79,173383_PNDM_s30.png
+179765,A black Honda motorcycle with a dark burgundy seat,PNDM,30,7.5,42,4.84,179765_PNDM_s30.png
+397133,A person standing by a stove in a kitchen,PNDM,50,7.5,42,7.91,397133_PNDM_s50.png
+219578,A dog and cat are sleeping together on an orange couch,PNDM,50,7.5,42,8.02,219578_PNDM_s50.png
+80671,A person is trying to ski down a snowy slope,PNDM,50,7.5,42,8.15,80671_PNDM_s50.png
+173383,a two layered cake sits on a table top,PNDM,50,7.5,42,8.27,173383_PNDM_s50.png
+179765,A black Honda motorcycle with a dark burgundy seat,PNDM,50,7.5,42,8.45,179765_PNDM_s50.png
+397133,A person standing by a stove in a kitchen,DDIM,20,7.5,42,3.47,397133_DDIM_s20.png
+219578,A dog and cat are sleeping together on an orange couch,DDIM,20,7.5,42,3.46,219578_DDIM_s20.png
+80671,A person is trying to ski down a snowy slope,DDIM,20,7.5,42,3.47,80671_DDIM_s20.png
+173383,a two layered cake sits on a table top,DDIM,20,7.5,42,3.45,173383_DDIM_s20.png
+179765,A black Honda motorcycle with a dark burgundy seat,DDIM,20,7.5,42,3.44,179765_DDIM_s20.png
+397133,A person standing by a stove in a kitchen,DDIM,30,7.5,42,5.0,397133_DDIM_s30.png
+219578,A dog and cat are sleeping together on an orange couch,DDIM,30,7.5,42,4.96,219578_DDIM_s30.png
+80671,A person is trying to ski down a snowy slope,DDIM,30,7.5,42,4.93,80671_DDIM_s30.png
+173383,a two layered cake sits on a table top,DDIM,30,7.5,42,4.92,173383_DDIM_s30.png
+179765,A black Honda motorcycle with a dark burgundy seat,DDIM,30,7.5,42,4.9,179765_DDIM_s30.png
+397133,A person standing by a stove in a kitchen,DDIM,50,7.5,42,8.01,397133_DDIM_s50.png
+219578,A dog and cat are sleeping together on an orange couch,DDIM,50,7.5,42,7.99,219578_DDIM_s50.png
+80671,A person is trying to ski down a snowy slope,DDIM,50,7.5,42,8.04,80671_DDIM_s50.png
+173383,a two layered cake sits on a table top,DDIM,50,7.5,42,8.07,173383_DDIM_s50.png
+179765,A black Honda motorcycle with a dark burgundy seat,DDIM,50,7.5,42,8.12,179765_DDIM_s50.png
+397133,A person standing by a stove in a kitchen,DPMSolver++,20,7.5,42,3.37,397133_DPMSolver++_s20.png
+219578,A dog and cat are sleeping together on an orange couch,DPMSolver++,20,7.5,42,3.36,219578_DPMSolver++_s20.png
+80671,A person is trying to ski down a snowy slope,DPMSolver++,20,7.5,42,3.36,80671_DPMSolver++_s20.png
+173383,a two layered cake sits on a table top,DPMSolver++,20,7.5,42,3.36,173383_DPMSolver++_s20.png
+179765,A black Honda motorcycle with a dark burgundy seat,DPMSolver++,20,7.5,42,3.36,179765_DPMSolver++_s20.png
+397133,A person standing by a stove in a kitchen,DPMSolver++,30,7.5,42,4.91,397133_DPMSolver++_s30.png
+219578,A dog and cat are sleeping together on an orange couch,DPMSolver++,30,7.5,42,4.91,219578_DPMSolver++_s30.png
+80671,A person is trying to ski down a snowy slope,DPMSolver++,30,7.5,42,4.9,80671_DPMSolver++_s30.png
+173383,a two layered cake sits on a table top,DPMSolver++,30,7.5,42,4.89,173383_DPMSolver++_s30.png
+179765,A black Honda motorcycle with a dark burgundy seat,DPMSolver++,30,7.5,42,4.89,179765_DPMSolver++_s30.png
+397133,A person standing by a stove in a kitchen,DPMSolver++,50,7.5,42,8.0,397133_DPMSolver++_s50.png
+219578,A dog and cat are sleeping together on an orange couch,DPMSolver++,50,7.5,42,7.98,219578_DPMSolver++_s50.png
+80671,A person is trying to ski down a snowy slope,DPMSolver++,50,7.5,42,7.98,80671_DPMSolver++_s50.png
+173383,a two layered cake sits on a table top,DPMSolver++,50,7.5,42,7.98,173383_DPMSolver++_s50.png
+179765,A black Honda motorcycle with a dark burgundy seat,DPMSolver++,50,7.5,42,7.98,179765_DPMSolver++_s50.png
+397133,A person standing by a stove in a kitchen,EulerA,20,7.5,42,3.33,397133_EulerA_s20.png
+219578,A dog and cat are sleeping together on an orange couch,EulerA,20,7.5,42,3.32,219578_EulerA_s20.png
+80671,A person is trying to ski down a snowy slope,EulerA,20,7.5,42,3.33,80671_EulerA_s20.png
+173383,a two layered cake sits on a table top,EulerA,20,7.5,42,3.33,173383_EulerA_s20.png
+179765,A black Honda motorcycle with a dark burgundy seat,EulerA,20,7.5,42,3.33,179765_EulerA_s20.png
+397133,A person standing by a stove in a kitchen,EulerA,30,7.5,42,4.88,397133_EulerA_s30.png
+219578,A dog and cat are sleeping together on an orange couch,EulerA,30,7.5,42,4.88,219578_EulerA_s30.png
+80671,A person is trying to ski down a snowy slope,EulerA,30,7.5,42,4.89,80671_EulerA_s30.png
+173383,a two layered cake sits on a table top,EulerA,30,7.5,42,4.88,173383_EulerA_s30.png
+179765,A black Honda motorcycle with a dark burgundy seat,EulerA,30,7.5,42,4.89,179765_EulerA_s30.png
+397133,A person standing by a stove in a kitchen,EulerA,50,7.5,42,8.0,397133_EulerA_s50.png
+219578,A dog and cat are sleeping together on an orange couch,EulerA,50,7.5,42,8.01,219578_EulerA_s50.png
+80671,A person is trying to ski down a snowy slope,EulerA,50,7.5,42,8.02,80671_EulerA_s50.png
+173383,a two layered cake sits on a table top,EulerA,50,7.5,42,8.04,173383_EulerA_s50.png
+179765,A black Honda motorcycle with a dark burgundy seat,EulerA,50,7.5,42,8.03,179765_EulerA_s50.png
